@@ -1,6 +1,6 @@
 //package jenkins_pro;
 
-public class Jenkins_1 {
+public class Jobchain_02 {
 
 	public static void main(String[] args) {
 		
